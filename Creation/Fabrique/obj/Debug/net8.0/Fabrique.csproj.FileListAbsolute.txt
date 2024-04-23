@@ -1,0 +1,15 @@
+/workspaces/Design_paterns/Creation/Fabrique/bin/Debug/net8.0/Fabrique
+/workspaces/Design_paterns/Creation/Fabrique/bin/Debug/net8.0/Fabrique.deps.json
+/workspaces/Design_paterns/Creation/Fabrique/bin/Debug/net8.0/Fabrique.runtimeconfig.json
+/workspaces/Design_paterns/Creation/Fabrique/bin/Debug/net8.0/Fabrique.dll
+/workspaces/Design_paterns/Creation/Fabrique/bin/Debug/net8.0/Fabrique.pdb
+/workspaces/Design_paterns/Creation/Fabrique/obj/Debug/net8.0/Fabrique.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Design_paterns/Creation/Fabrique/obj/Debug/net8.0/Fabrique.AssemblyInfoInputs.cache
+/workspaces/Design_paterns/Creation/Fabrique/obj/Debug/net8.0/Fabrique.AssemblyInfo.cs
+/workspaces/Design_paterns/Creation/Fabrique/obj/Debug/net8.0/Fabrique.csproj.CoreCompileInputs.cache
+/workspaces/Design_paterns/Creation/Fabrique/obj/Debug/net8.0/Fabrique.sourcelink.json
+/workspaces/Design_paterns/Creation/Fabrique/obj/Debug/net8.0/Fabrique.dll
+/workspaces/Design_paterns/Creation/Fabrique/obj/Debug/net8.0/refint/Fabrique.dll
+/workspaces/Design_paterns/Creation/Fabrique/obj/Debug/net8.0/Fabrique.pdb
+/workspaces/Design_paterns/Creation/Fabrique/obj/Debug/net8.0/Fabrique.genruntimeconfig.cache
+/workspaces/Design_paterns/Creation/Fabrique/obj/Debug/net8.0/ref/Fabrique.dll
