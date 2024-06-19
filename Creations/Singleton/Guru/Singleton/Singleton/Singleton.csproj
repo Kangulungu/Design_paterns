@@ -46,6 +46,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Singleton_Naif.cs" />
+    <Compile Include="Singleton_TSafe.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
