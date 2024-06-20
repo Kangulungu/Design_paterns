@@ -25,5 +25,5 @@ Fabrique_Questions:
 7.Quelle est la subtilité à comprendre dans le pattern Fabrique ? Pourquoi ? 
 - Quelle sont les notions de la POO repris dans cette sutilité ?
 
-8.Quelle Différence entre les Fabrique des CM et celui de Guru
+8.Quelle Différence entre les Fabriques de CM et celui de Guru
 - Expliquer les variantes des Mutuelles Factory dans la version CM (Simple et Abstract)
