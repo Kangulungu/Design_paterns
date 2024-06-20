@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace Fabrique
 {
-    class Program
+   public interface IProduct
     {
-        static void Main(string[] args)
-        {
-            new Client().Main();
-            Console.ReadLine();
-        }
+        string Operation();
     }
 }
