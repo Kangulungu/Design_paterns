@@ -16,6 +16,7 @@ Fabrique_Questions:
 - Faire un schéma de ce pattern et expliquer où se situe le lévier, quelle est son rôle ?
 
 5.Dans quel cas utiliser la pattern Fabrique ?
+
 6.Dans  la structure du patron de conception Fabrique :
 - Que contiennent les classes?
 - Quels rôles jouent-elles?
