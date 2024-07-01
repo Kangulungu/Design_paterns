@@ -11,7 +11,7 @@ namespace Fabrique_Abstraite.ConcreteProducts
     {
         public string UsefulFunctionA()
         {
-            throw new NotImplementedException();
+            return "The result of the product A1.";
         }
     }
 }

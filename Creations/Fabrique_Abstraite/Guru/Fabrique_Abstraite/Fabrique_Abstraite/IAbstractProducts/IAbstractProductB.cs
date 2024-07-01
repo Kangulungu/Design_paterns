@@ -8,6 +8,7 @@ namespace Fabrique_Abstraite.IAbstractProducts
 {
    public interface IAbstractProductB 
     {
-        string UsefulFunctionA();
+        string UsefulFunctionB();
+        string AnotherUsefulFunctionB(IAbstractProductA collaborator);
     }
 }

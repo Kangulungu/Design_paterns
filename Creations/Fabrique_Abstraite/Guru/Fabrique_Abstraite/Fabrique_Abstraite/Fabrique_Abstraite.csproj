@@ -43,6 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Client.cs" />
+    <Compile Include="ConcreteFactorys\ConcreteFactory1.cs" />
+    <Compile Include="ConcreteFactorys\ConcreteFactory2.cs" />
+    <Compile Include="ConcreteProducts\ConcreteProductA1.cs" />
+    <Compile Include="ConcreteProducts\ConcreteProductA2.cs" />
+    <Compile Include="ConcreteProducts\ConcreteProductB1.cs" />
+    <Compile Include="ConcreteProducts\ConcreteProductB2.cs" />
+    <Compile Include="IAbstractFactory\IAbstractFactory.cs" />
+    <Compile Include="IAbstractProducts\IAbstractProductA.cs" />
+    <Compile Include="IAbstractProducts\IAbstractProductB.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
